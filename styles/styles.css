@@ -11,6 +11,7 @@ main {
 
 nav a {
     color: white;
+    background-color: #44052d;
     padding: 10px;
     display: block;
 }
